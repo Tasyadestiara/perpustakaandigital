@@ -14,3 +14,6 @@ Selamat Datang di Perpustakaan Digital Berikut ini adalah Koleksi yang dimiliki:
 10. [Sekolah Untuk Timur](ebook/Sekolah Untuk Timur.pdf) - Muhammad Fauzi (2023)
 11. [Kue Kimu](ebook/Kue Kimi.pdf) - Lia Herlina (2024)
 12. [UGC PATI](ebook/UGC PATI.pdf) - Tasya (2026)
+
+Powered by GitHub Pages
+Tasya Destiara 13040124140108
