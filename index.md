@@ -12,5 +12,4 @@ Selamat Datang di Perpustakaan Digital Berikut ini adalah Koleksi yang dimiliki:
 8. [Tidak Bisa Tidak](ebook/Tidak Bisa Tidak.pdf) - Lenny Ekawati (2024)
 9. [Namaku Kali](ebook/Namaku Bali.pdf) - Anna Farida (2022)
 10. [Sekolah Untuk Timur](ebook/Sekolah Untuk Timur.pdf) - Muhammad Fauzi (2023)
-11. Contoh buku lain
----
+11. [Kue Kimu](ebook/Kue Kimi.pdf) - Lia Herlina (2024)
